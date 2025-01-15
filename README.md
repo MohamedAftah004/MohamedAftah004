@@ -7,5 +7,4 @@
 💭 Currently learning about front-end to become a Full Stack.<br> 
 </p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAftah004&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAftah004)](https://github.com/MohamedAftah004/github-readme-stats)
