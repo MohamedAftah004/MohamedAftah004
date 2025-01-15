@@ -28,7 +28,7 @@
 ### 1. **Vehicle License Management System** - C#, SOLID Principles
 <div style="width:100%; height:auto; text-align:center;">
     <a href="https://lnkd.in/dXQvSfUX" target="_blank">
-        <img src="https://drive.google.com/uc?id=1mfCLhcr1yJbqJoO1Ah2A16xBoHAvNqNK" alt="Vehicle License Management" style="max-width:600px; width:100%; height:auto; border-radius:8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+        <img src="https://drive.google.com/uc?id=1mfCLhcr1yJbqJoO1Ah2A16xBoHAvNqNK" alt="Vehicle License Management" style="max-width:300px; width:100%; height:300px; border-radius:8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
     </a>
 </div>
 
@@ -37,7 +37,7 @@
 ### 2. **Banking System with C# & SQL Server** - Windows Forms, ADO.NET
 <div style="width:100%; height:auto; text-align:center;">
     <a href="https://www.linkedin.com/posts/mabd-elfattah_my-first-project-usign-c-net-bank-system-activity-7131498874082320384-3Hn1?utm_source=share&utm_medium=member_desktop" target="_blank">
-        <img src="https://drive.google.com/uc?id=1egHIQ-ay9rtqu0Ij0zHX73fhUvGEyK3q" alt="Banking System Windows Form" style="max-width:600px; width:100%; height:auto; border-radius:8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+        <img src="https://drive.google.com/uc?id=1egHIQ-ay9rtqu0Ij0zHX73fhUvGEyK3q" alt="Banking System Windows Form" style="max-width:300px; width:100%; height:300px; border-radius:8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
     </a>
 </div>
 
@@ -46,7 +46,7 @@
 ### 3. **Banking System with OOP & Permissions** - C++
 <div style="width:100%; height:auto; text-align:center;">
     <a href="https://www.linkedin.com/posts/mabd-elfattah_share-project-banking-activity-7065720601985867776-J-g-?utm_source=share&utm_medium=member_desktop" target="_blank">
-        <img src="https://drive.google.com/uc?id=1JVnDGlSuBf5E-wwDBz2a_9HJnPrio9T9" alt="Bank Using OOP" style="max-width:600px; width:100%; height:auto; border-radius:8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+        <img src="https://drive.google.com/uc?id=1JVnDGlSuBf5E-wwDBz2a_9HJnPrio9T9" alt="Bank Using OOP" style="max-width:300px; width:100%; height:300px; border-radius:8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
     </a>
 </div>
 
@@ -55,7 +55,7 @@
 ### 4. **Banking System with CRUD Operations** - C++
 <div style="width:100%; height:auto; text-align:center;">
     <a href="https://www.linkedin.com/posts/mabd-elfattah_bank-activity-7034959005483474944-59m1?utm_source=share&utm_medium=member_desktop" target="_blank">
-        <img src="https://drive.google.com/uc?id=1vsm5GnV7luHg_FIFeotngLrdmcFDTAu5" alt="Bank Using Struct" style="max-width:600px; width:100%; height:auto; border-radius:8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+        <img src="https://drive.google.com/uc?id=1vsm5GnV7luHg_FIFeotngLrdmcFDTAu5" alt="Bank Using Struct" style="max-width:300px; width:100%; height:300px; border-radius:8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
     </a>
 </div>
 
@@ -64,7 +64,7 @@
 ### 5. **Math Game Project** - C++ (Functional Programming)
 <div style="width:100%; height:auto; text-align:center;">
     <a href="https://www.linkedin.com/posts/mabd-elfattah_excited-to-share-my-first-project-using-c-activity-7022260875403177984-3Yi_?utm_source=share&utm_medium=member_desktop" target="_blank">
-        <img src="https://drive.google.com/uc?id=15t7sX03hNVMvyL3V5OdnWPHiQKDo7kSX" alt="Math Game" style="max-width:600px; width:100%; height:auto; border-radius:8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+        <img src="https://drive.google.com/uc?id=15t7sX03hNVMvyL3V5OdnWPHiQKDo7kSX" alt="Math Game" style="max-width:300px; width:100%; height:300px; border-radius:8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
     </a>
 </div>
 
