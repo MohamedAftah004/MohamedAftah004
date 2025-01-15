@@ -23,51 +23,49 @@
 [![](https://visitcount.itsvg.in/api?id=MohamedAftah004&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ## My Projects on LinkedIn
 
 ### 1. **Math Game Project** - C++ (Functional Programming)
-<div style="width:100%; height:250px; background-color:#f0f0f0; text-align:center; line-height:250px;">
-    <img src="https://drive.google.com/uc?id=15t7sX03hNVMvyL3V5OdnWPHiQKDo7kSX" alt="Math Game" style="max-width:100%; height:auto;">
+<div style="width:100%; height:auto; text-align:center;">
+    <a href="https://www.linkedin.com/posts/mabd-elfattah_excited-to-share-my-first-project-using-c-activity-7022260875403177984-3Yi_?utm_source=share&utm_medium=member_desktop" target="_blank">
+        <img src="https://drive.google.com/uc?id=15t7sX03hNVMvyL3V5OdnWPHiQKDo7kSX" alt="Math Game" style="max-width:300px; height:auto; border-radius:8px;">
+    </a>
 </div>
-[![Math Game Project](https://img.youtube.com/vi/[Video_ID]/0.jpg)](https://www.linkedin.com/posts/mabd-elfattah_excited-to-share-my-first-project-using-c-activity-7022260875403177984-3Yi_?utm_source=share&utm_medium=member_desktop)
-- **Description**: A math game where the system generates math problems based on the chosen difficulty level. Built using C++ and functional programming techniques.
 
 ---
 
 ### 2. **Banking System with CRUD Operations** - C++
-<div style="width:100%; height:250px; background-color:#f0f0f0; text-align:center; line-height:250px;">
-    <img src="https://drive.google.com/uc?id=1mfCLhcr1yJbqJoO1Ah2A16xBoHAvNqNK" alt="Bank Using Struct" style="max-width:100%; height:auto;">
+<div style="width:100%; height:auto; text-align:center;">
+    <a href="https://www.linkedin.com/posts/mabd-elfattah_bank-activity-7034959005483474944-59m1?utm_source=share&utm_medium=member_desktop" target="_blank">
+        <img src="https://drive.google.com/uc?id=1mfCLhcr1yJbqJoO1Ah2A16xBoHAvNqNK" alt="Bank Using Struct" style="max-width:300px; height:auto; border-radius:8px;">
+    </a>
 </div>
-[![Banking System](https://img.youtube.com/vi/[Video_ID]/0.jpg)](https://www.linkedin.com/posts/mabd-elfattah_bank-activity-7034959005483474944-59m1?utm_source=share&utm_medium=member_desktop)
-- **Description**: A bank system that implements CRUD (Create, Read, Update, Delete) operations and stores user data using structs. Built with C++.
 
 ---
 
 ### 3. **Enhanced Banking System** - C++ (OOP, Permissions, Currency Calculator)
-<div style="width:100%; height:250px; background-color:#f0f0f0; text-align:center; line-height:250px;">
-    <img src="https://drive.google.com/uc?id=1vsm5GnV7luHg_FIFeotngLrdmcFDTAu5" alt="Bank Using OOP" style="max-width:100%; height:auto;">
+<div style="width:100%; height:auto; text-align:center;">
+    <a href="https://www.linkedin.com/posts/mabd-elfattah_share-project-banking-activity-7065720601985867776-J-g-?utm_source=share&utm_medium=member_desktop" target="_blank">
+        <img src="https://drive.google.com/uc?id=1vsm5GnV7luHg_FIFeotngLrdmcFDTAu5" alt="Bank Using OOP" style="max-width:300px; height:auto; border-radius:8px;">
+    </a>
 </div>
-[![Enhanced Banking System](https://img.youtube.com/vi/[Video_ID]/0.jpg)](https://www.linkedin.com/posts/mabd-elfattah_share-project-banking-activity-7065720601985867776-J-g-?utm_source=share&utm_medium=member_desktop)
-- **Description**: An enhanced version of the banking system, now incorporating object-oriented programming (OOP), permission management, and a currency conversion calculator.
 
 ---
 
 ### 4. **Banking System with C# & SQL Server** - Windows Forms, ADO.NET
-<div style="width:100%; height:250px; background-color:#f0f0f0; text-align:center; line-height:250px;">
-    <img src="https://drive.google.com/uc?id=1egHIQ-ay9rtqu0Ij0zHX73fhUvGEyK3q" alt="Banking System Windows Form" style="max-width:100%; height:auto;">
+<div style="width:100%; height:auto; text-align:center;">
+    <a href="https://www.linkedin.com/posts/mabd-elfattah_my-first-project-usign-c-net-bank-system-activity-7131498874082320384-3Hn1?utm_source=share&utm_medium=member_desktop" target="_blank">
+        <img src="https://drive.google.com/uc?id=1egHIQ-ay9rtqu0Ij0zHX73fhUvGEyK3q" alt="Banking System Windows Form" style="max-width:300px; height:auto; border-radius:8px;">
+    </a>
 </div>
-[![Banking System in C#](https://img.youtube.com/vi/[Video_ID]/0.jpg)](https://www.linkedin.com/posts/mabd-elfattah_my-first-project-usign-c-net-bank-system-activity-7131498874082320384-3Hn1?utm_source=share&utm_medium=member_desktop)
-- **Description**: Rebuilt the banking system using C# and SQL Server with a Windows Forms interface. ADO.NET was used for database connectivity and CRUD operations.
 
 ---
 
 ### 5. **Vehicle License Management System** - C#, SOLID Principles
-<div style="width:100%; height:250px; background-color:#f0f0f0; text-align:center; line-height:250px;">
-    <img src="https://drive.google.com/uc?id=1JVnDGlSuBf5E-wwDBz2a_9HJnPrio9T9" alt="Vehicle License Management" style="max-width:100%; height:auto;">
+<div style="width:100%; height:auto; text-align:center;">
+    <a href="https://lnkd.in/dXQvSfUX" target="_blank">
+        <img src="https://drive.google.com/uc?id=1JVnDGlSuBf5E-wwDBz2a_9HJnPrio9T9" alt="Vehicle License Management" style="max-width:300px; height:auto; border-radius:8px;">
+    </a>
 </div>
-[![Vehicle License System](https://img.youtube.com/vi/[Video_ID]/0.jpg)](https://lnkd.in/dXQvSfUX)
-- **Description**: A comprehensive vehicle license management system that I developed over 3 months. This system was built using C# and follows SOLID principles to ensure scalability and maintainability.
 
----
 
