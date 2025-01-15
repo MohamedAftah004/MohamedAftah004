@@ -24,8 +24,25 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## My Projects on LinkedIn
 
+### 1. **Sports Game Project** - C++ (Functional Programming)
+[![Sports Game Project](https://img.youtube.com/vi/[Video_ID]/0.jpg)](https://www.linkedin.com/posts/mabd-elfattah_excited-to-share-my-first-project-using-c-activity-7022260875403177984-3Yi_?utm_source=share&utm_medium=member_desktop)
+- **Description**: A sports game project where the system generates mathematical problems based on difficulty levels chosen by the user. Developed using C++ and functional programming principles.
 
+### 2. **Banking System with CRUD Operations** - C++
+[![Banking System](https://img.youtube.com/vi/[Video_ID]/0.jpg)](https://www.linkedin.com/posts/mabd-elfattah_bank-activity-7034959005483474944-59m1?utm_source=share&utm_medium=member_desktop)
+- **Description**: A bank system that implements CRUD (Create, Read, Update, Delete) operations and stores user data using structs. Built with C++.
 
+### 3. **Enhanced Banking System** - C++ (OOP, Permissions, Currency Calculator)
+[![Enhanced Banking System](https://img.youtube.com/vi/[Video_ID]/0.jpg)](https://www.linkedin.com/posts/mabd-elfattah_share-project-banking-activity-7065720601985867776-J-g-?utm_source=share&utm_medium=member_desktop)
+- **Description**: An enhanced version of the banking system, now incorporating object-oriented programming (OOP), permission management, and a currency conversion calculator.
 
+### 4. **Banking System with C# & SQL Server** - Windows Forms, ADO.NET
+[![Banking System in C#](https://img.youtube.com/vi/[Video_ID]/0.jpg)](https://www.linkedin.com/posts/mabd-elfattah_my-first-project-usign-c-net-bank-system-activity-7131498874082320384-3Hn1?utm_source=share&utm_medium=member_desktop)
+- **Description**: Rebuilt the banking system using C# and SQL Server with a Windows Forms interface. ADO.NET was used for database connectivity and CRUD operations.
+
+### 5. **Vehicle License Management System** - C#, SOLID Principles
+[![Vehicle License System](https://img.youtube.com/vi/[Video_ID]/0.jpg)](https://lnkd.in/dXQvSfUX)
+- **Description**: A comprehensive vehicle license management system that I developed over 3 months. This system was built using C# and follows SOLID principles to ensure scalability and maintainability.
 
