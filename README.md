@@ -51,7 +51,7 @@
 
 ## My Projects on LinkedIn
 
-### 1. **Vehicle License Management System** - C#, SOLID Principles
+### 1. **Vehicle License Management System** - Windows Forms , C# , .NET , SQL , ADO.NET , OOP , 3-Tier Arch , SOLID Principles
 <div style="width:100%; height:auto; text-align:center;">
     <a href="https://lnkd.in/dXQvSfUX" target="_blank">
         <img src="https://drive.google.com/uc?id=1mfCLhcr1yJbqJoO1Ah2A16xBoHAvNqNK" alt="Vehicle License Management" style="max-width:600px; width:100%; height:auto; border-radius:8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
@@ -60,7 +60,7 @@
 
 ---
 
-### 2. **Banking System with C# & SQL Server** - Windows Forms, ADO.NET
+### 2. **Banking System ** - Windows Forms , C# , .NET , SQL , ADO.NET , OOP , 3-Tier Arch , ADO.NET
 <div style="width:100%; height:auto; text-align:center;">
     <a href="https://www.linkedin.com/posts/mabd-elfattah_my-first-project-usign-c-net-bank-system-activity-7131498874082320384-3Hn1?utm_source=share&utm_medium=member_desktop" target="_blank">
         <img src="https://drive.google.com/uc?id=1egHIQ-ay9rtqu0Ij0zHX73fhUvGEyK3q" alt="Banking System Windows Form" style="max-width:600px; width:100%; height:auto; border-radius:8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
