@@ -1,3 +1,5 @@
+![GitHub Cover](https://drive.google.com/file/d/1L93Rr1zwiCIVJSIV9Pknt2kgdgnCkQCa/view?usp=sharing)
+
 ### Hi, I'm Mohamed!
 <p dir="auto">👩🏻‍💻 CS Student sharing about my journey and learnings in tech<br> 
 👩🏻‍🎓 Studied <a>Computer Science</a> at the University of SVU, Egypt 🇪🇬<br> 
