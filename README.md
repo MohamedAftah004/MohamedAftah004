@@ -5,6 +5,7 @@
 📂 Developed multiple back-end projects showcasing robust and efficient solutions.<br> 
 👨‍💻 Back-end developer specializing in .NET and SQL Server.<br> 
 🧩 Passionate about solving challenging problems with creative solutions.<br>
+🧩 Solved over 500 diverse problems in programming and algorithms, enhancing my logical thinking and problem-solving skills<br>
 💭 Currently learning about front-end to become a Full Stack.<br> 
 </p>
 
