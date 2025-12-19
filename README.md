@@ -1,10 +1,10 @@
 
 ### Hi, I'm Mohamed!
 <p dir="auto">👩🏻‍💻 CS Student sharing about my journey and learnings in tech<br> 
-👩🏻‍🎓 Studied <a>Computer Science</a> at the University of SVU, Egypt 🇪🇬<br> 
-📂 Developed multiple Fullstack projects showcasing robust and efficient solutions.<br> 
-👨‍💻 Fullstack developer specializing in .NET, Angular, Clean architecture, SQL and PostgreSQL.<br> 
-🧩 Passionate about solving challenging problems with creative solutions.<br>
+📌 Studied <a>Computer Science</a> at the University of SVU, Egypt 🇪🇬<br> 
+📌 Developed multiple Fullstack projects showcasing robust and efficient solutions.<br> 
+📌 Fullstack developer specializing in .NET, Angular, Clean architecture, SQL and PostgreSQL.<br> 
+📌 Passionate about solving challenging problems with creative solutions.<br>
 🧩 Solved over 500 diverse problems in programming and algorithms, enhancing my logical thinking and problem-solving skills<br>
 </p>
 
