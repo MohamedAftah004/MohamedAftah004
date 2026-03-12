@@ -1,73 +1,103 @@
+<div align="center">
 
-### Hi, I'm Mohamed!
-<p dir="auto">👩🏻‍💻 CS Student sharing about my journey and learnings in tech<br> 
-📌 Studied <a>Computer Science</a> at the University of SVU, Egypt 🇪🇬<br> 
-📌 Developed multiple Fullstack projects showcasing robust and efficient solutions.<br> 
-📌 Fullstack developer specializing in .NET, Angular, Clean architecture, SQL and PostgreSQL.<br> 
-📌 Passionate about solving challenging problems with creative solutions.<br>
-🧩 Solved over 500 diverse problems in programming and algorithms, enhancing my logical thinking and problem-solving skills<br>
-</p>
+<br>
 
+# Mohamed Abdelfattah
 
+**Fullstack Developer** · Egypt 🇪🇬
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mabd-elfattah) 
+.NET · Angular · Clean Architecture · AI Engineering
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohamedAftah004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAftah004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAftah004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=MohamedAftah004&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square)](https://portfolio-ochre-beta-bwt0n2yz36.vercel.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://linkedin.com/in/mabd-elfattah)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square)](https://github.com/MohamedAftah004)
 
-
-## My Projects on LinkedIn
-
-### 1. **Vehicle License Management System** - Windows Forms , C# , .NET , SQL , ADO.NET , OOP , 3-Tier Arch , SOLID Principles
-<div style="width:100%; height:auto; text-align:center;">
-    <a href="https://lnkd.in/dXQvSfUX" target="_blank">
-        <img src="https://drive.google.com/uc?id=1mfCLhcr1yJbqJoO1Ah2A16xBoHAvNqNK" alt="Vehicle License Management" style="max-width:600px; width:100%; height:auto; border-radius:8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
-    </a>
 </div>
+
+<br>
 
 ---
 
-### 2. **Banking System ** - Windows Forms , C# , .NET , SQL , ADO.NET , OOP , 3-Tier Arch , ADO.NET
-<div style="width:100%; height:auto; text-align:center;">
-    <a href="https://www.linkedin.com/posts/mabd-elfattah_my-first-project-usign-c-net-bank-system-activity-7131498874082320384-3Hn1?utm_source=share&utm_medium=member_desktop" target="_blank">
-        <img src="https://drive.google.com/uc?id=1egHIQ-ay9rtqu0Ij0zHX73fhUvGEyK3q" alt="Banking System Windows Form" style="max-width:600px; width:100%; height:auto; border-radius:8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
-    </a>
-</div>
+<br>
+
+## About
+
+Fullstack developer with 4+ years of hands-on experience building production systems — from a company digital wallet platform to freelance web products live in production. Currently expanding into AI Engineering: RAG pipelines, Agentic AI, and cloud-native architecture on AWS.
+
+BSc Computer Science · South Valley University · 2022–2026
+
+<br>
 
 ---
 
-### 3. **Banking System with OOP & Permissions** - C++
-<div style="width:100%; height:auto; text-align:center;">
-    <a href="https://www.linkedin.com/posts/mabd-elfattah_share-project-banking-activity-7065720601985867776-J-g-?utm_source=share&utm_medium=member_desktop" target="_blank">
-        <img src="https://drive.google.com/uc?id=1JVnDGlSuBf5E-wwDBz2a_9HJnPrio9T9" alt="Bank Using OOP" style="max-width:600px; width:100%; height:auto; border-radius:8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
-    </a>
-</div>
+<br>
+
+## Stack
+
+| | |
+|---|---|
+| **Backend** | .NET 8 · ASP.NET Core · C# · EF Core · ADO.NET · MediatR · CQRS · DDD |
+| **Frontend** | Angular · TypeScript · React · JavaScript · Tailwind CSS · Bootstrap |
+| **AI & Cloud** | Python · RAG · LLM Integration · Agentic AI · FAISS · AWS |
+| **Databases** | PostgreSQL · SQL Server · Redis |
+| **Architecture** | Clean Architecture · SOLID · Repository Pattern · TDD · Design Patterns |
+| **Tools** | Git · Docker · Postman · Swagger · Keycloak |
+
+<br>
 
 ---
 
-### 4. **Banking System with CRUD Operations** - C++
-<div style="width:100%; height:auto; text-align:center;">
-    <a href="https://www.linkedin.com/posts/mabd-elfattah_bank-activity-7034959005483474944-59m1?utm_source=share&utm_medium=member_desktop" target="_blank">
-        <img src="https://drive.google.com/uc?id=1vsm5GnV7luHg_FIFeotngLrdmcFDTAu5" alt="Bank Using Struct" style="max-width:600px; width:100%; height:auto; border-radius:8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
-    </a>
-</div>
+<br>
+
+## Selected Work
+
+**Wallet System** — Production digital wallet. Clean Architecture, DDD, CQRS, TDD. Built as a company assignment end-to-end. `.NET 8` `Angular 20` `PostgreSQL`
+
+**Khidma Admin Dashboard** — 35+ page admin platform for a service marketplace. Custom component library, RBAC, analytics. `Angular` `Freelance`
+
+**Yalla To Egypt** — Official web platform for a travel company. Live in production. `Angular` `TypeScript` `Freelance`
+
+**AutoFix AI** — Multi-agent RAG system for automated software fault diagnosis. `Python` `RAG` `FAISS` `Multi-Agent`
+
+**CivicForge AI** — AI feasibility analysis for civic project proposals using structured reasoning agents. `Python` `Agentic AI` `LLM`
+
+**Bookify** — .NET 10 Clean Architecture with DDD. Value objects, aggregates, domain events. `C#` `.NET 10`
+
+→ **[See all 21 projects on my portfolio](https://portfolio-ochre-beta-bwt0n2yz36.vercel.app/#projects)**
+
+<br>
 
 ---
 
-### 5. **Math Game Project** - C++ (Functional Programming)
-<div style="width:100%; height:auto; text-align:center;">
-    <a href="https://www.linkedin.com/posts/mabd-elfattah_excited-to-share-my-first-project-using-c-activity-7022260875403177984-3Yi_?utm_source=share&utm_medium=member_desktop" target="_blank">
-        <img src="https://drive.google.com/uc?id=15t7sX03hNVMvyL3V5OdnWPHiQKDo7kSX" alt="Math Game" style="max-width:600px; width:100%; height:auto; border-radius:8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
-    </a>
+<br>
+
+## Timeline
+
+```
+2021  Started with C++ and problem solving — 500+ problems, DSA foundations
+2022  BSc Computer Science at SVU · Egypt
+2023  C#, OOP, SQL Server — first real projects
+2024  ASP.NET Core, 3-Tier Architecture, ADO.NET, WinForms systems
+2025  Clean Architecture, DDD, EF Core, Design Patterns — company & freelance work
+2026  AI Engineering: RAG · Agentic AI · AWS Cloud · Python
+Now   Expanding further into AI-native systems and cloud architecture
+```
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MohamedAftah004&show_icons=true&hide_border=true&hide_rank=true&title_color=111&text_color=555&icon_color=111&bg_color=ffffff)&nbsp;
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAftah004&hide_border=true&layout=compact&title_color=111&text_color=555&bg_color=ffffff)
+
+<br>
+
+<sub>mohamedaftah04@gmail.com</sub>
+
 </div>
-
-
-
