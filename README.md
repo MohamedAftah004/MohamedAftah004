@@ -39,7 +39,7 @@ BSc Computer Science · South Valley University · 2022–2026
 | | |
 |---|---|
 | **Backend** | .NET 8 · ASP.NET Core · C# · EF Core · ADO.NET · MediatR · CQRS · DDD |
-| **Frontend** | Angular · TypeScript · React · JavaScript · Tailwind CSS · Bootstrap |
+| **Frontend** | Angular · TypeScript · JavaScript · Tailwind CSS · Bootstrap |
 | **AI & Cloud** | Python · RAG · LLM Integration · Agentic AI · FAISS · AWS |
 | **Databases** | PostgreSQL · SQL Server · Redis |
 | **Architecture** | Clean Architecture · SOLID · Repository Pattern · TDD · Design Patterns |
