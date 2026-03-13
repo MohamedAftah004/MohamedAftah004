@@ -24,7 +24,7 @@
 
 ## About
 
-CS student at SVU, Egypt — building real things while still in university. Shipped a production wallet system as a company assignment, delivered freelance web products live in production, and now expanding into AI Engineering: RAG pipelines, Agentic AI, and cloud-native architecture on AWS.
+CS student at SVU, Egypt. Building fullstack systems with .NET and Angular — some freelance, one company project, all real. Getting into AI Engineering on the side.
 
 BSc Computer Science · South Valley University · 2022–2026
 
