@@ -24,7 +24,7 @@
 
 ## About
 
-Fullstack developer with 4+ years of hands-on experience building production systems — from a company digital wallet platform to freelance web products live in production. Currently expanding into AI Engineering: RAG pipelines, Agentic AI, and cloud-native architecture on AWS.
+CS student at SVU, Egypt — building real things while still in university. Shipped a production wallet system as a company assignment, delivered freelance web products live in production, and now expanding into AI Engineering: RAG pipelines, Agentic AI, and cloud-native architecture on AWS.
 
 BSc Computer Science · South Valley University · 2022–2026
 
