@@ -90,26 +90,15 @@ Now   Expanding further into AI-native systems and cloud architecture
 ---
 
 <br>
-
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MohamedAftah004&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAftah004&theme=github-dark-blue&hide_border=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAftah004&layout=compact&hide_border=true"/>
+<br><br>
 
-<br>
-
-<sub>mohamedaftah04@gmail.com</sub>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedAftah004&theme=github_dark"/>
 
 </div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MohamedAftah004&hide_border=true" />
-
-</div>
-
-<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedAftah004&theme=github" />
 
