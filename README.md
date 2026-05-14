@@ -100,12 +100,3 @@ Now   Expanding further into AI-native systems and cloud architecture
 
 </div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedAftah004&theme=github" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedAftah004&theme=github" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedAftah004&theme=github" />
-
-</div>
