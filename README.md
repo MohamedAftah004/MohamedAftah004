@@ -93,8 +93,9 @@ Now   Expanding further into AI-native systems and cloud architecture
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MohamedAftah004&show_icons=true&hide_border=true&hide_rank=true&title_color=111&text_color=555&icon_color=111&bg_color=ffffff)&nbsp;
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAftah004&hide_border=true&layout=compact&title_color=111&text_color=555&bg_color=ffffff)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MohamedAftah004&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAftah004&layout=compact&hide_border=true"/>
 
 <br>
 
