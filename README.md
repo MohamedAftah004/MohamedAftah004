@@ -102,3 +102,9 @@ Now   Expanding further into AI-native systems and cloud architecture
 <sub>mohamedaftah04@gmail.com</sub>
 
 </div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MohamedAftah004&hide_border=true" />
+
+</div>
