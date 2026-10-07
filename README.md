@@ -24,7 +24,7 @@
 
 ## About
 
-CS student at SVU, Egypt. Building fullstack systems with .NET and Angular — some freelance, one company project, all real. Getting into AI Engineering on the side.
+Full-Stack .NET Developer & Freelance Software Engineer from Egypt. Building real-world full-stack systems with .NET and Angular — including freelance work and production projects. Currently expanding into AI Engineering and agentic AI systems.
 
 BSc Computer Science · South Valley University · 2022–2026
 
